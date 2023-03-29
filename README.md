@@ -14,6 +14,13 @@ A simple, customizable 3D React component
   <div>React Display Box</div>
 </DisplayBox>
 ```
+### Installation
+
+```
+npm i react-display-box
+```
+----
+
 ## `<DisplayBox>`
 
 A `DisplayBox` component wraps an existing div and puts it on the back of a customizable 3D box. Initially, this was created to visualize a game library (as seen above), but there's nothing to stop you from using it for whatever you want. 
